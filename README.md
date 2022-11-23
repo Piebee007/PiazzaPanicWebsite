@@ -7,6 +7,6 @@ Team 19
 ![alt text](https://github.com/Piebee007/PiazzaPanicWebsite/blob/main/GanttCharts/GanttChartInitial.png?raw=true "Initial Plan")
 
 ### Snapshot 2
-![alt text](https://github.com/Piebee007/PiazzaPanicWebsite/blob/main/GanttCharts/GanttChart2.png "Snapshot 2")
+![alt text](https://github.com/Piebee007/PiazzaPanicWebsite/blob/main/GanttCharts/GanttChart2.png?raw=true "Snapshot 2")
 
 
